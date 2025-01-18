@@ -398,7 +398,7 @@ padding: 30px;
   position: absolute;
   top: 0px;
   /* color: #ffbd39; */
-  box-shadow: 5px 2px 30px #6b0000 inset ,-2px -2px 30px #6b0000 inset;
+  box-shadow: 5px 2px 30px rgb(117, 0, 0) inset ,-2px -2px 30px rgb(117, 0, 0) inset;
 
 
 }
